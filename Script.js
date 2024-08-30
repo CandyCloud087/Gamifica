@@ -33,5 +33,9 @@ let cartasAtuais = [];
         }
 
         function encerrar() {
-            window.close();  // Funciona apenas se a janela foi aberta via JavaScript
+            document.getElementById("carta").innerHTML = "Selecione um Deck";
+            // Adicione um pequeno atraso para garantir que a mensagem seja exibida antes de fechar a janela
+            setTimeout(function() {
+                window.close();  // Funciona apenas se a janela foi aberta via JavaScript
+            }, 100);
         }
