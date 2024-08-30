@@ -12,6 +12,12 @@ let cartasAtuais = [];
                 });
         }
 
+        function escapeHtml(text) {
+            var div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
         function girarCarta() {
             if (cartasAtuais.length > 0) {
                 const carta = cartasAtuais[Math.floor(Math.random() * cartasAtuais.length)];
