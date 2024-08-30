@@ -13,8 +13,8 @@ body {
 
 #carta {
     width: 100%;
-    max-width: 600px;
-    min-height: 300px;
+    max-width: 550px;
+    min-height: 250px;
     background-color: lightgrey;
     display: flex;
     align-items: center;
