@@ -5,7 +5,7 @@ let cartasAtuais = [];
                 .then(response => response.text())
                 .then(data => {
                     cartasAtuais = data.trim().split('\n');
-                    document.getElementById('carta').textContent = "Deck carregado: " + arquivo;
+                    document.getElementById('carta').textContent = "Deck carregado: " + arquivo.split('.')[0];
                 })
                 .catch(error => {
                     alert("Erro ao carregar o deck: " + error);
