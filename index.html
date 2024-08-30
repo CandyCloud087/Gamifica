@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baralho de Cartas</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <div id="carta">Selecione um Deck</div>
+
+    <div id="container">
+        <div id="deck">
+            <button class="botao" onclick="carregarDeck('aleatorio.txt')">Aleatório</button>
+            <button class="botao" onclick="carregarDeck('historia.txt')">História</button>
+            <button class="botao" onclick="carregarDeck('evento.txt')">Evento</button>
+        </div>
+
+        <div id="comandos">
+            <button class="botao" onclick="girarCarta()">Girar</button>
+            <button class="botao" onclick="embaralharCartas()">Embaralhar</button>
+            <button class="botao" onclick="encerrar()">Encerrar</button>
+        </div>
+    </div>
+
+    <script src="Script.js"></script>
+</body>
+</html>
