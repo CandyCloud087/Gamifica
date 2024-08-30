@@ -32,7 +32,8 @@ body {
 }
 
 .botao {
-    font-family: "JetBrains Mono", monospace;;
+    font-family: "JetBrains Mono", monospace;
+    font-weight: bold;
     width: 100%;
     max-width: 150px;
     padding: 10px;
