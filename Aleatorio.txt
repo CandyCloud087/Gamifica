@@ -3,7 +3,7 @@ Você foi promovido, avance 3 casas
 Você teve atrasos durante 30 dias, desconto de 10% do seu salário
 Você discutiu no seu trabalho, perdeu uma rodada
 Você trabalhou no feriado, ganhou 10% do valor do seu salário
-Faltou no serviço sem juistificativa e recebu uma adivertência, perdeu 2 rodadas
+Faltou no serviço sem justificativa e recebu uma adivertência, perdeu 2 rodadas
 Você saiu mais cedo do seu trabalho durante 30 dias, desconto de 10% do seu salário
 Você fez um excelente trabalho, teve um bônus de R$100
 Você trabalhou na sua folga, ganhou R$150
