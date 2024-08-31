@@ -15,7 +15,7 @@ body {
 
 #carta {
     width: 100%;
-    max-width: 550px;
+    max-width: 400px;
     min-height: 250px;
     background-color: lightgrey;
     display: flex;
