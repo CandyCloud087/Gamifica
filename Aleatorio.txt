@@ -4,7 +4,7 @@ Você teve atrasos durante 30 dias, desconto de 10% do seu salário
 Você discutiu no seu trabalho, perdeu uma rodada
 Você trabalhou no feriado, ganhou 10% do valor do seu salário
 Faltou no serviço sem justificativa e recebeu uma advertência, perdeu 2 rodadas
-Você saiu mais cedo do seu trabalho durante 30 dias, desconto de 10% do seu salário
+Você saiu mais cedo do seu trabalho durante 30 dias, desconto de 10% do seu saldo atual
 Você fez um excelente trabalho, teve um bônus de R$100
 Você trabalhou na sua folga, ganhou R$150
 O chefe solicitou horas extras, fique parado por 2 rodadas
